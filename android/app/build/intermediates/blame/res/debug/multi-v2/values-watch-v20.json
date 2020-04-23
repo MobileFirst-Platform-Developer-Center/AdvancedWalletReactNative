@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/charankumar/Documents/MFP_Push/ReactWork/MyWork/Demos/ReactWalletDemoFinalMar23/checkpoint/7AdvancedWallet_FinalMondauyNight/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/0dfeb0da9c273720f41e549adda33224/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

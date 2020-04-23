@@ -1,0 +1,41 @@
+{
+  "name": "AdvancedWallet",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.7",
+    "react": "16.8.3",
+    "react-native": "0.59.2",
+    "react-native-animated-login": "^0.2.2",
+    "react-native-circle-size-selector": "^1.0.3",
+    "react-native-elements": "^1.2.7",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-ibm-mobilefirst": "^8.0.2020022509",
+    "react-native-image-slider-show": "^1.0.3",
+    "react-native-paper": "^3.6.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.4.0",
+    "react-native-spacer": "^1.5.1",
+    "react-native-status-bar-height": "^3.0.0-alpha.1",
+    "react-native-tab-navigator": "^0.3.4",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.3.3",
+    "react-navigation-stack": "^2.3.6",
+    "react-navigation-tabs": "^2.8.7"
+  },
+  "devDependencies": {
+    "@babel/core": "7.9.0",
+    "@babel/runtime": "7.9.2",
+    "babel-jest": "25.1.0",
+    "jest": "25.1.0",
+    "metro-react-native-babel-preset": "0.59.0",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
